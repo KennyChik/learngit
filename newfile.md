@@ -1,6 +1,6 @@
 # learngit
 
 
-this is a new file
-
-这是暂存已修改文件示例
+feature1
+feature1
+feature1
